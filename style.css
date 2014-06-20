@@ -1,0 +1,26 @@
+html{
+	background-color:green;
+}
+
+h2{
+	text-align:center;
+	background-color:purple;
+	margin-left:5%;
+	margin-right:10%;
+}
+
+div{
+	margin-top:5%;
+	margin-left:5%;
+	margin-right:10%;
+}
+
+#note{
+	text-align:center;
+	font-size:14px;
+}
+
+a{
+	font-size:16px;
+	text-decoration:underline;
+}
